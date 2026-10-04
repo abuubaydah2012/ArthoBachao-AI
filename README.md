@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/3d76da22-b47c-4c03-b3ff-98301
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+## 🚀 Live Demo
+
+[ArthoBachao AI](https://arthobachao-ai.onrender.com/)
